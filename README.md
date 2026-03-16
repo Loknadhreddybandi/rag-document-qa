@@ -92,8 +92,4 @@ Labels derived from a custom 20-question evaluation set with keyword-based quali
 
 ---
 
-## Author
 
-**Bandi Venkata Loknadh Reddy**
-MS Data Science & AI — University of Central Missouri
-[GitHub](https://github.com/Loknadhreddybandi) · [LinkedIn](https://linkedin.com/in/bandivenkataloknadhreddy)
