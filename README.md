@@ -4,18 +4,8 @@ End-to-end Retrieval-Augmented Generation pipeline that lets users upload any PD
 
 ---
 
-## Metrics
 
-| Metric | Value |
-|--------|-------|
-| Answer success rate | **85%** across 20 test queries |
-| Cosine similarity retrieval score | **0.544** |
-| Minimum retrieval latency | **126ms** |
-| Avg end-to-end latency | **~5s** (includes Groq free-tier API) |
-| Chunks indexed | **688 chunks across 189 pages** |
-| Documents tested | **3 AI research papers** |
 
----
 
 ## Architecture
 
